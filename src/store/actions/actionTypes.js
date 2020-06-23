@@ -1,0 +1,7 @@
+export const NOME = 'NOME'
+export const QUANTIDADE = 'QUANTIDADE'
+export const CARREGA_PRODUTOS = 'CARREGA_PRODUTOS'
+export const VALOR = 'VALOR'
+export const IDPRODUTO = 'IDPRODUTO'
+export const CARREGA_PRODUTO_EDIT = 'CARREGA_PRODUTO_EDIT'
+export const UPDATE_PRODUTO = 'UPDATE_PRODUTO'

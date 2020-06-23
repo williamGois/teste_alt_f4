@@ -1,0 +1,47 @@
+
+.Card .Content {
+    padding: 20px;
+}
+.Card .Header { color: #FFF; background-color: #1565c0; }
+.Card .Content { background-color: #2196f3; }
+.Card {
+    padding: 20px;
+    width: 100%;
+}
+.Card .HeaderAddproduto {
+    display: flex;
+    justify-content: center;
+}
+.Card .HeaderAddproduto .Title {
+    flex: 1;
+    padding: 5px;
+}
+.Card .HeaderAddproduto { color: #FFF; background-color: #1565c0; }
+.Card .HeaderAddproduto :hover{
+    background-color: #4b82c1 !important;
+}
+.Addproduto input {
+    font-size: 1.8rem;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 100px;
+}
+.adb {
+    cursor: pointer;
+}
+
+.inputNome{
+    width: 20% !important;
+}
+.bck{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.bck img{
+    width: 28px;
+    height: 28px;
+    margin-right: 9px;
+}
+
