@@ -14,4 +14,4 @@ Para rotas react-router-dom
 Para Alerts sweetalert2-react 
 
 
-### `Para analise dos Verbos PUT e POST eu deu console log com o retorno do servidor`
+### `Para analise dos Verbos PUT e POST eu dei console log com o retorno do servidor`
