@@ -1,6 +1,6 @@
 ## PROJETO TESTE ALT + F4
 
-Esse projeto foi desenvolvido para teste na empresa alt + f4
+Esse projeto foi desenvolvido para teste !
 
 Para inicar
 
@@ -13,5 +13,5 @@ Para gerenciamento de estados react-redux
 Para rotas react-router-dom
 Para Alerts sweetalert2-react 
 
-Muito obrigado pela oportunidade !!!
 
+### `Para analise dos Verbos PUT e POST eu deu console log com o retorno do servidor`
